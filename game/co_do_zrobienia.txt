@@ -1,0 +1,3 @@
+- map maker. Chociaż tylko możliwość wkładania kółek w różnych obrębach czasowych
+- kółka mają taki fajny efekt zanikania jak się w nie kliknie (możliwość zmiany tego w ustawieniach jak będzie lagowało) [ZROBIONE]
+- powiększenie lekko kółek i obrębu gry oraz zwiększenie trudnośći poprzez zmniejszenie timingów na dane punkty
